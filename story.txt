@@ -1,0 +1,5 @@
+In a <place>, there lived a <noun>. This <noun> was known for their <adjective> <plural_noun>. Every <day_of_the_week>, they would go to the <place> and collect more <plural_noun>.
+
+One <season>, the <noun> stumbled upon a <adjective> <noun>. This <noun> granted them three wishes! They wished for a lifetime supply of <food>, a flying <noun>, and a talking <animal>. They became famous in <place>.
+
+But one day, a <villain> tried to steal their <plural_noun>. After a fierce battle, the <noun> and their trusty talking <animal> defeated the <villain>. They continued collecting <plural_noun> and lived <adjective> ever after.
